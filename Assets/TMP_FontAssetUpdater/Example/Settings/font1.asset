@@ -25,4 +25,4 @@ MonoBehaviour:
   m_fontStyleModifier: 2
   m_renderMode: 6
   m_getKerningPairs: 0
-  m_isAutoUpdate: 1
+  m_isAutoUpdate: 0
