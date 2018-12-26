@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5efa3d57a65b844588361825fe418d7, type: 3}
+  m_Name: font1
+  m_EditorClassIdentifier: 
+  m_fontAsset: {fileID: 11400000, guid: 35ddd4bd46aa36d489c10a8f605bf41c, type: 2}
+  m_sourceFontFile: {fileID: 12800000, guid: 78caf3d638464be4db81ded0cc88c8a9, type: 3}
+  m_customCharacterList: {fileID: 4900000, guid: d84090898b9951840a4325ea5117ffe0,
+    type: 3}
+  m_samplingPointSizeMode: 0
+  m_samplingPointSize: 0
+  m_padding: 5
+  m_packingMethod: 0
+  m_atlasResolution: {x: 128, y: 128}
+  m_fontStyle: 0
+  m_fontStyleModifier: 2
+  m_renderMode: 6
+  m_getKerningPairs: 0
+  m_isAutoUpdate: 1
