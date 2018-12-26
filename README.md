@@ -14,6 +14,11 @@ You can automatically update FontAsset when the character you want to include in
 - Mass update of multiple Font Asset
 - Manual update is also possible
 
+## Version
+
+- Unity 2018.3.0f2
+- TextMesh Pro 1.3.0
+
 ## Example
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20181226/20181226163642.gif)
